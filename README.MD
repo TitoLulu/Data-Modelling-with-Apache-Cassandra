@@ -2,6 +2,7 @@
 ETL Project for a fictional company SParkify; the ETL pipeline creates a database that allows analysis on song play data. 
 
 Tables are modelled based on the following queries 
+
     1. artist, song title, and song length in music app history that was heard during sessionId = 338 and itemInSession = 4
     2. name of artist. song(filtered by item in session) and (first name and last name) for userId = 10 and sessionId = 182
     3. Every user name(first and last) who listened to the song "All Hands Against His Own"
