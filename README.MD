@@ -35,4 +35,5 @@ Retrieved data from csv file in a folder called *event_data* then built a python
 ## References
 
 -[REFERENCE #1](https://classroom.udacity.com/nanodegrees/nd027):**Data Engineering Nano Degree - Data Modelling with Apache Cassandra**
+
 -[REFERENCE #2](https://stackoverflow.com/questions/46921455/cassandra-error-order-by-only-supported-when-partition-key-is-restricted-by-eq):**Partition Key Restriction on Order BY and GROUP BY operations**
